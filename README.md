@@ -1,7 +1,7 @@
 I write 🧩 plugins for **Nukkit**, **PowerNukkitX**, **PocketMine-MP** and **Bukkit**
 
 ## 📱 Contact me:
-Discord @mefrreex [(Link to add as a friend)](https://discord.com/invite/7ZTCRCDp)   
+Discord @mefrreex
 Telegram: [@MEFRREEX](https://t.me/mefrreex)
 
 **(You can also buy a plugin from me)**
