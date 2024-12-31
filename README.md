@@ -1,13 +1,15 @@
 # Hi there! 👋
 
 ## ✨ About Me
-I am a **Java Developer** with over 2 years of experience, primarily working with **Java**, while also learning and experimenting with **Kotlin**. In addition, I have experience with **TypeScript**, **JavaScript** and **PHP**.  
+I am a **Java Developer** with over 2.5 years of experience, primarily working with **Java**, while also learning and experimenting with **Kotlin**. In addition, I have experience with **TypeScript**, **JavaScript** and **PHP**.  
 
 I work on a variety of projects, including 🧩 plugins for the following platforms:
 - **Nukkit**
 - **PowerNukkitX**
 - **PocketMine-MP**
 - **Bukkit**
+
+🤖 I also write Telegram and Discord bots.
 
 If you're interested in custom solutions or need help with a project, feel free to reach out — **I also take on plugin development requests!**
 
