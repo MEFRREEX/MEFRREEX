@@ -1,14 +1,14 @@
 # Hi there! 👋
 
 ## ✨ About Me
-I'm a **Java Developer** with over **3.5 years of experience**, primarily working with **Java**, but also using **Kotlin**, **TypeScript**, **JavaScript**, and **PHP**.
+I'm a **Java Developer** with over **4 years of experience**, primarily working with **Java**, but also using **Kotlin**, **TypeScript**, **JavaScript**, and a little **PHP**.
 
-I specialize in **backend development with Java**, creating **Telegram/Discord bots using TypeScript**, and writing **Minecraft plugins** for platforms like **Bukkit/Paper/Folia**, **Nukkit**, **PowerNukkitX**, and [**Lumi**](https://github.com/KoshakMineDEV/Lumi).
+I specialize in **backend development with Java**, **some Java library development**, creating **Telegram/Discord bots using TypeScript**.
 
 ✅ Projects I'm working on that you should check out:
-- [Instancify/Scriptify](https://github.com/Instancify/Scriptify) - JavaScript evaluator with support for global function and variable registration.
-- [LuminiaDev/Bridge](https://github.com/LuminiaDev/Bridge) - A library for communicating by sending packets between multiple services.
-- [MEFRREEX/Yookassa-SDK](https://github.com/MEFRREEX/Yookassa-SDK) - Unofficial SDK for payment aggregator Yookassa.
+- [DensyDev/Scriptify](https://github.com/DensyDev/Scriptify) - JavaScript evaluator with support for global function and variable registration.
+- [DensyDev/Polyglot](https://github.com/DensyDev/Polyglot) - An advanced Java library for string localization.
+- [DensyDev/Bridge](https://github.com/DensyDev/Bridge) - A library for Java and TypeScript for communicating by sending packets between multiple services.
 - [MEFRREEX/FormConstructor](https://github.com/MEFRREEX/FormConstructor) - Advanced library for creating shapes for Minecrat Bedrock (Nukkit/Lumi).
 - [KoshakMineDEV/Lumi](https://github.com/KoshakMineDEV/Lumi) - Modern Minecraft Bedrock server software with multiversion.
 
@@ -16,8 +16,8 @@ If you're interested in custom solutions or need help with a project, feel free 
 
 ## 📱 Contact Me
 Feel free to connect with me via:
-- **Discord**: @mefrreex
 - **Telegram**: [@mefrreex](https://t.me/mefrreex)
+- **Discord**: @mefrreex
 
 ## 📊 GitHub Stats
 ![MEFRREEX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEFRREEX&show_icons=true&theme=radical&border_color=30363d&bg_color=0d1117)    
